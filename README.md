@@ -1,5 +1,11 @@
 # Capstone-ml
-Repository ini merupakan repository dari capstone project tim DEKAT. Tim kami membangun sebuah sistem pendeteksi kain tapis
-Divisi Machine Learning bertugas mengumpulkan datasets yang diperlukan, membuat model machine learning untuk pendeteksi kain tapis.
+This repository is a repository for the DEKAT team's capstone project. Our team built a filter cloth detection system
+The Machine Learning Division is tasked with collecting the necessary datasets, creating a machine learning model for filter cloth detection.
 
-Selama proses develop model disimpan dibranch ini. Baik develop model dan preprocessing image.
+Here's how to use this repository:
+- Download / clone this repository.
+- Open Google Colab then load the model saved in the models folder.
+- Add condition code from ipynb file.
+
+Note: for the develop branch, there are several parts that are not published to main during the developing process.
+So the main features are from the main branch.
